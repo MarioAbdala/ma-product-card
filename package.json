@@ -7,6 +7,11 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": "https://github.com/MarioAbdala/ma-product-card",
+    "type": "git"
+  },
+  "homepage": "https://github.com/MarioAbdala",
   "engines": {
     "node": ">=10"
   },
@@ -60,5 +65,8 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.5.0",
     "typescript": "^3.9.10"
-  }
+  },
+  "keywords": [
+    "product", "card", "mario", "abdala"
+  ]
 }
